@@ -1,20 +1,4 @@
-# Postwork 3
-## (Obtenido del [repositorio usado en la Sesión 3](https://github.com/beduExpert/Programacion-R-Santander-2021/tree/main/Sesion-03/Postwork))
+# Postwork 03: Colección de Datos
+Con el objetivo de abordar la problemática, se buscó un dataset pertinente. De __Kaggle__ se obtuvo el dataset titulado [___Significant Earthquakes, 1965-2016___](https://www.kaggle.com/usgs/earthquake-database), proporcionado por el Servicio Geológico de los Estados Unidos. En este trabajo, ya se descargó el dataset y se colocó en [___este directorio___](https://github.com/gilesitorr/DataScience3_Bloque3/blob/ab857c681f06cda742541029a2601355d4f99a57/Postwork_3/database.csv).
 
-Los objetivos de este postwork son los siguientes:
-
-1. Con el último data frame obtenido en el __postwork 2__, elaborar tablas de frecuencias relativas para estimar las siguientes probabilidades:
-
-- La probabilidad (marginal) de que el equipo que juega en casa anote x goles (x=0,1,2,)
-
-- La probabilidad (marginal) de que el equipo que juega como visitante anote y goles (y=0,1,2,)
-
-- La probabilidad (conjunta) de que el equipo que juega en casa anote x goles y el equipo que juega como visitante anote y goles (x=0,1,2,, y=0,1,2,)
-
-2. Realizar lo siguiente:
-
-- Un gráfico de barras para las probabilidades marginales estimadas del número de goles que anota el equipo de casa.
-- Un gráfico de barras para las probabilidades marginales estimadas del número de goles que anota el equipo visitante.
-- Un _HeatMap_ para las probabilidades conjuntas estimadas de los números de goles que anotan el equipo de casa y el equipo visitante en un partido.
-
-__Notas para los datos de soccer:__ https://www.football-data.co.uk/notes.txt
+El dataset contiene 21 columnas, entre las cuales se encuentran la fecha, hora, localización y magnitud de sismos reportados a nivel mundial con magnitudes mayores a 5.5 desde 1965 hasta 2016.
