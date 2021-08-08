@@ -30,6 +30,6 @@ A continuación, se encuentran todos los postworks en orden:
  - [`Postwork 3:` Programación funcional y operadores lógicos](Postwork_3/Readme.md)
  - [`Postwork 4:` Pandas y Análisis Exploratorio de Datos](Postwork_4/Readme.md) 
  - [`Postwork 5:` Funciones Vectorizadas y Limpieza de Datos](Postwork_5/Readme.md) 
- - [`Postwork 6:` APIs, automatización y concatenación de DataFrames](Postwork_6/Readme.md)
+ - [`Postwork 6:` APIs, automatización y concatenación de DataFrames](Postwork_6/Readme.ipynb)
  - [`Postwork 7:` Transformación, filtración y ordenamiento de datos](Postwork_7/Readme.md) 
  - [`Postwork 8:` Bases de datos, merge y agrupaciones](Postwork_8/Readme.md)
