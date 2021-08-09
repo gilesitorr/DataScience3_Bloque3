@@ -7,4 +7,4 @@ Por otro lado, con la información de las proporciones de sismos de todas las es
 
 Un proyecto que puede conjuntar todo lo que se menncionó anteriormente sería repetir los análisis anteriores pero en territorios que no son "cercanos" a las fallas de las placas tectónicas. Es decir, cuáles son las probabilidades y las causas de los terremotos que ocurren "fuera" de esas zonas críticas.
 
-## El Notebook completo se [encuentra aquí](https://colab.research.google.com/drive/13T6rYJlOyld0x1NB_0-TiGYD4QEANFJn?usp=sharing)
+__El Notebook completo se [encuentra aquí](https://colab.research.google.com/drive/13T6rYJlOyld0x1NB_0-TiGYD4QEANFJn?usp=sharing)__
