@@ -15,6 +15,7 @@ _Preguntas generales_:
 _Preguntas de profundización del tema_:
 1. ¿Cuántos sismos habrá en los próximos años?
 2. ¿Hay una relación entre la magnitud o la profundidad de los sismos y su región?
+3. ¿Cuáles son las regiones con los sismos de menor y mayor profundidad?
 
 _Pregunta específica_:
 1. ¿Cuántos sismos habrá en México en el 2022?
