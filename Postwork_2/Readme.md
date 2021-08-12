@@ -9,8 +9,9 @@ En base a los objetivos que se plantearon y a la investigación, se pueden deter
 
 _Preguntas generales_:
 1. ¿Cuántos sismos hay anualmente?
-2. ¿Cuáles son las regiones donde hay sismos más frecuentemente?
-3. ¿Cuáles son las regiones con más sismos “fuertes” (en términos de magnitud)?
+2. ¿Cuál es la relación entre magnitud y frecuencia?
+3. ¿Cuáles son las regiones donde hay sismos más frecuentemente?
+4. ¿Cuáles son las regiones con más sismos “fuertes” (en términos de magnitud)?
 
 _Preguntas de profundización del tema_:
 1. ¿Cuántos sismos habrá en los próximos años?
