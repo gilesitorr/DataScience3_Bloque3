@@ -18,6 +18,7 @@ En este repositorio se encuentran los resultados y todos los desarrollos del pro
 ### Resultados del proyecto
 - [El __Notebook (_Google Colab_)__ del proyecto](https://colab.research.google.com/drive/13T6rYJlOyld0x1NB_0-TiGYD4QEANFJn?usp=sharing).
 - [El __video explicativo__ del proyecto.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [La __presentación__ del video.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [El __reporte__ del proyecto](https://www.overleaf.com/read/vchnjxnghbsp). (O también se puede consultar el [pdf del reporte](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 
 __Nota__: En el __Notebook__ está la totalidad del código del proyeto.
