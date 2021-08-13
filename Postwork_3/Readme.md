@@ -3,4 +3,4 @@ Con el objetivo de abordar la problemática, se buscó un dataset pertinente. De
 
 El dataset contiene 21 columnas, entre las cuales se encuentran la fecha, hora, localización y magnitud de sismos reportados a nivel mundial con magnitudes mayores a 5.5 desde 1965 hasta 2016.
 
-[Aquí está el reporte extendido del __Postwork 3__](https://github.com/gilesitorr/DataScience3_Bloque3/blob/main/Postwork_3/Postwork%203.pdf)
+[_Aquí está el reporte extendido del __Postwork 3___](https://github.com/gilesitorr/DataScience3_Bloque3/blob/main/Postwork_3/Postwork%203.pdf)
