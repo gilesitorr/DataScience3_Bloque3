@@ -18,7 +18,7 @@ En este repositorio se encuentran los resultados y todos los desarrollos del pro
 ### Resultados del proyecto
 - [El __Notebook (_Google Colab_)__ del proyecto](https://colab.research.google.com/drive/13T6rYJlOyld0x1NB_0-TiGYD4QEANFJn?usp=sharing).
 - [El __video explicativo__ del proyecto.](https://drive.google.com/file/d/1u5v35mzrovqxBTiWyhJgVyRw-dfvZ0dX/view?usp=sharing)
-- [La __presentación__ usada en el video.](Proyecto Final 2 BEDU.pdf)
+- [La __presentación__ usada en el video.](https://github.com/gilesitorr/DataScience3_Bloque3/blob/main/Proyecto%20Final%202%20BEDU.pdf)
 - [El __reporte__ del proyecto](https://www.overleaf.com/read/vchnjxnghbsp). (O también se puede consultar el [pdf del reporte](https://github.com/gilesitorr/DataScience3_Bloque3/blob/4387db46e7a34b72597b02dd0c84f896a43684e7/DS3_Bloque3_Python.pdf))
 
 __Nota__: En el __Notebook__ está la totalidad del código del proyeto.
