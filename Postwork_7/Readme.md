@@ -1,3 +1,3 @@
 # Postwork 07: Transformación, filtración y ordenamiento de datos
-Puede que el código del Notebook [subido a GitHub](https://github.com/gilesitorr/DataScience3_Bloque3/blob/c82b15afa01e2d708f4b74bd6eba3a9a539667c7/Postwork_7/Readme.ipynb) tarde demasiado en cargar (por ser muy extenso).
+Puede que el código del Notebook [subido a GitHub](https://github.com/gilesitorr/DataScience3_Bloque3/blob/fe9d0d3bad56451a00e6754b2a4b9e9b05caa447/Postwork_7/Readme.ipynb) tarde demasiado en cargar (por ser muy extenso).
 Si no abre en GitHub, se recomienda abrir el [Notebook en Colab individual de este Postwork](https://colab.research.google.com/drive/1OnrPAZk9o23a8lV7nikk0x19FHsHYTVT?usp=sharing) o, por otra parte, el [Notebook en Colab con todos los Postwork](https://colab.research.google.com/drive/13T6rYJlOyld0x1NB_0-TiGYD4QEANFJn?usp=sharing).
