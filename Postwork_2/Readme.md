@@ -20,3 +20,5 @@ _Preguntas de profundización del tema_:
 
 _Pregunta específica_:
 1. ¿Cuántos sismos habrá en México en el 2022?
+
+[_Aquí está el reporte extendido del __Postwork 2___](https://github.com/gilesitorr/DataScience3_Bloque3/blob/main/Postwork_2/Postwork%202.pdf)
