@@ -33,3 +33,5 @@ _Fuentes_:
 - Lee, A. (2020). Plotting USGS Earthquake Data with Folium. Recuperado el 29 de julio del 2021 de https://levelup.gitconnected.com/plotting-usgs-earthquake-data-with-folium-8f11ddc21950.
 - Government of Canada. (s.f.). Simplified seismic hazard map for Canada, the provinces and territories. Recuperado el 29 de julio del 2021 de https://seismescanada.rncan.gc.ca/hazard-alea/simphaz-en.php.
 - Kagan, Y. (2009). Testing long-term earthquake forecasts: Likelihood methods and error diagrams. Geophysical Journal International. 177. Recuperado el 30 de julio del 2021 de https://watermark.silverchair.com/177-2-532.pdf.
+
+[_Aquí está el reporte extendido del __Postwork 1___](https://github.com/gilesitorr/DataScience3_Bloque3/blob/main/Postwork_1/Postwork%201.pdf)
